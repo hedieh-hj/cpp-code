@@ -1,0 +1,24 @@
+  
+.این کد یک سیستم خرید و فروش میباشد که شامل خریدار فروشنده و محصولات میباشد
+
+در این پروژه یک سیستم فروش ساده با قابلیتهای زیر پیاده سازی خواهد شد: 
+
+- تعریف کالا (کد کالا، نام کالا، مبلغ، کد فروشنده، قیمت) 
+- تعریف فروشنده (کد فروشنده، نام فروشنده، آدرس فروشنده، شماره تلفن فروشنده)
+- تعریف خریدار (کد خریدار، نام خریدار، شماره تلفن خریدار)
+- خرید (کد کالا، کد خریدار، تعداد)
+- مشاهده لیست کالاها (کل کالاها و کالاهای در بازه قیمتی وارد شده)
+- مشاهده اطلاعات فروشنده یک کالای خاص
+- مشاهده لیست خریداران (کل خریداران و خریداران با میزان خرید در بازه مبلغ وارد شده)
+
+ 
+This code is a sales system that includes the buyer, seller and products.
+In this project, a simple sales system with the following capabilities will be implemented:
+
+- Product definition (product code, product name, amount, seller code, price)
+- Definition of seller (seller code, seller name, seller address, seller phone number)
+- Buyer definition (buyer code, buyer name, buyer phone number)
+- Purchase (product code, buyer code, number)
+- View the list of goods (all goods and goods in the price range)
+- View the seller information of a particular product
+- View the list of buyers (total buyers and buyers with the amount of purchase in the amount entered)
